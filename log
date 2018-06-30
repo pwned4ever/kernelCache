@@ -1,0 +1,1129 @@
+
+Mount 1131 Success Log
+
+2018-06-28 14:50:23.532518+0800 multi_path[235:4526] file:///var/mobile/Containers/Data/Application/F3AAEFD5-D971-46BB-9256-797D0E162873/Documents/
+2018-06-28 14:51:00.008887+0800 multi_path[235:4526] Status bar could not find cached time string image. Rendering in-process.
+offsets selected for iOS 11.3 or above
+rlim.cur: 256
+rlim.max: 9223372036854775807
+rlim.cur: 10240
+rlim.max: 9223372036854775807
+allocating early sockets
+trying to force a 16MB aligned 0x800 kalloc on to freelist
+0/6...
+1/6...
+2/6...
+3/6...
+4/6...
+5/6...
+6/6...
+1697 1698
+waiting for early mptcp gc...
+trying first free
+doing partial overwrite with target value: 0000000000000000, length 3
+err: -1
+waiting for mptcp gc...
+trying to refill ****************
+hopefully we got a pipe buffer in there... now freeing one of them
+trying second free
+doing partial overwrite with target value: 0000000000000000, length 3
+err: -1
+waiting for second mptcp gc...
+checking....
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+full read
+found an unexpected value: deadbeef000007a8
+found an unexpected value: ffffffe00d000228
+found an unexpected value: 0000000000000000
+found an unexpected value: 0000000000000000
+found an unexpected value: 0000000000000000
+found an unexpected value: 0000000000000000
+found an unexpected value: 0000000000000000
+this should be the empty prealloc message
++00000000 deadbeef000007a8
++00000008 4242424242424242
++00000010 4242424242424242
++00000018 ffffffe00d000228
++00000020 0000000000000000
++00000028 0000000000000000
++00000030 0000000000000000
++00000038 0000000000000000
++00000040 4242424242424242
++00000048 4242424242424242
++00000050 0000000000000000
++00000058 4242424242424242
++00000060 4242424242424242
++00000068 4242424242424242
++00000070 4242424242424242
++00000078 4242424242424242
++00000080 4242424242424242
++00000088 4242424242424242
++00000090 4242424242424242
++00000098 4242424242424242
++000000a0 4242424242424242
++000000a8 4242424242424242
++000000b0 4242424242424242
++000000b8 4242424242424242
++000000c0 4242424242424242
++000000c8 4242424242424242
++000000d0 4242424242424242
++000000d8 4242424242424242
++000000e0 4242424242424242
++000000e8 4242424242424242
++000000f0 4242424242424242
++000000f8 4242424242424242
++00000100 4242424242424242
++00000108 4242424242424242
++00000110 4242424242424242
++00000118 4242424242424242
++00000120 4242424242424242
++00000128 4242424242424242
++00000130 4242424242424242
++00000138 4242424242424242
++00000140 4242424242424242
++00000148 4242424242424242
++00000150 4242424242424242
++00000158 4242424242424242
++00000160 4242424242424242
++00000168 4242424242424242
++00000170 4242424242424242
++00000178 4242424242424242
++00000180 4242424242424242
++00000188 4242424242424242
++00000190 4242424242424242
++00000198 4242424242424242
++000001a0 4242424242424242
++000001a8 4242424242424242
++000001b0 4242424242424242
++000001b8 4242424242424242
++000001c0 4242424242424242
++000001c8 4242424242424242
++000001d0 4242424242424242
++000001d8 4242424242424242
++000001e0 4242424242424242
++000001e8 4242424242424242
++000001f0 4242424242424242
++000001f8 4242424242424242
++00000200 4242424242424242
++00000208 4242424242424242
++00000210 4242424242424242
++00000218 4242424242424242
++00000220 4242424242424242
++00000228 4242424242424242
++00000230 4242424242424242
++00000238 4242424242424242
++00000240 4242424242424242
++00000248 4242424242424242
++00000250 4242424242424242
++00000258 4242424242424242
++00000260 4242424242424242
++00000268 4242424242424242
++00000270 4242424242424242
++00000278 4242424242424242
++00000280 4242424242424242
++00000288 4242424242424242
++00000290 4242424242424242
++00000298 4242424242424242
++000002a0 4242424242424242
++000002a8 4242424242424242
++000002b0 4242424242424242
++000002b8 4242424242424242
++000002c0 4242424242424242
++000002c8 4242424242424242
++000002d0 4242424242424242
++000002d8 4242424242424242
++000002e0 4242424242424242
++000002e8 4242424242424242
++000002f0 4242424242424242
++000002f8 4242424242424242
++00000300 4242424242424242
++00000308 4242424242424242
++00000310 4242424242424242
++00000318 4242424242424242
++00000320 4242424242424242
++00000328 4242424242424242
++00000330 4242424242424242
++00000338 4242424242424242
++00000340 4242424242424242
++00000348 4242424242424242
++00000350 4242424242424242
++00000358 4242424242424242
++00000360 4242424242424242
++00000368 4242424242424242
++00000370 4242424242424242
++00000378 4242424242424242
++00000380 4242424242424242
++00000388 4242424242424242
++00000390 4242424242424242
++00000398 4242424242424242
++000003a0 4242424242424242
++000003a8 4242424242424242
++000003b0 4242424242424242
++000003b8 4242424242424242
++000003c0 4242424242424242
++000003c8 4242424242424242
++000003d0 4242424242424242
++000003d8 4242424242424242
++000003e0 4242424242424242
++000003e8 4242424242424242
++000003f0 4242424242424242
++000003f8 4242424242424242
++00000400 4242424242424242
++00000408 4242424242424242
++00000410 4242424242424242
++00000418 4242424242424242
++00000420 4242424242424242
++00000428 4242424242424242
++00000430 4242424242424242
++00000438 4242424242424242
++00000440 4242424242424242
++00000448 4242424242424242
++00000450 4242424242424242
++00000458 4242424242424242
++00000460 4242424242424242
++00000468 4242424242424242
++00000470 4242424242424242
++00000478 4242424242424242
++00000480 4242424242424242
++00000488 4242424242424242
++00000490 4242424242424242
++00000498 4242424242424242
++000004a0 4242424242424242
++000004a8 4242424242424242
++000004b0 4242424242424242
++000004b8 4242424242424242
++000004c0 4242424242424242
++000004c8 4242424242424242
++000004d0 4242424242424242
++000004d8 4242424242424242
++000004e0 4242424242424242
++000004e8 4242424242424242
++000004f0 4242424242424242
++000004f8 4242424242424242
++00000500 4242424242424242
++00000508 4242424242424242
++00000510 4242424242424242
++00000518 4242424242424242
++00000520 4242424242424242
++00000528 4242424242424242
++00000530 4242424242424242
++00000538 4242424242424242
++00000540 4242424242424242
++00000548 4242424242424242
++00000550 4242424242424242
++00000558 4242424242424242
++00000560 4242424242424242
++00000568 4242424242424242
++00000570 4242424242424242
++00000578 4242424242424242
++00000580 4242424242424242
++00000588 4242424242424242
++00000590 4242424242424242
++00000598 4242424242424242
++000005a0 4242424242424242
++000005a8 4242424242424242
++000005b0 4242424242424242
++000005b8 4242424242424242
++000005c0 4242424242424242
++000005c8 4242424242424242
++000005d0 4242424242424242
++000005d8 4242424242424242
++000005e0 4242424242424242
++000005e8 4242424242424242
++000005f0 4242424242424242
++000005f8 4242424242424242
++00000600 4242424242424242
++00000608 4242424242424242
++00000610 4242424242424242
++00000618 4242424242424242
++00000620 4242424242424242
++00000628 4242424242424242
++00000630 4242424242424242
++00000638 4242424242424242
++00000640 4242424242424242
++00000648 4242424242424242
++00000650 4242424242424242
++00000658 4242424242424242
++00000660 4242424242424242
++00000668 4242424242424242
++00000670 4242424242424242
++00000678 4242424242424242
++00000680 4242424242424242
++00000688 4242424242424242
++00000690 4242424242424242
++00000698 4242424242424242
++000006a0 4242424242424242
++000006a8 4242424242424242
++000006b0 4242424242424242
++000006b8 4242424242424242
++000006c0 4242424242424242
++000006c8 4242424242424242
++000006d0 4242424242424242
++000006d8 4242424242424242
++000006e0 4242424242424242
++000006e8 4242424242424242
++000006f0 4242424242424242
++000006f8 4242424242424242
++00000700 4242424242424242
++00000708 4242424242424242
++00000710 4242424242424242
++00000718 4242424242424242
++00000720 4242424242424242
++00000728 4242424242424242
++00000730 4242424242424242
++00000738 4242424242424242
++00000740 4242424242424242
++00000748 4242424242424242
++00000750 4242424242424242
++00000758 4242424242424242
++00000760 4242424242424242
++00000768 4242424242424242
++00000770 4242424242424242
++00000778 4242424242424242
++00000780 4242424242424242
++00000788 4242424242424242
++00000790 4242424242424242
++00000798 4242424242424242
++000007a0 4242424242424242
++000007a8 4242424242424242
++000007b0 4242424242424242
++000007b8 4242424242424242
++000007c0 4242424242424242
++000007c8 4242424242424242
++000007d0 4242424242424242
++000007d8 4242424242424242
++000007e0 4242424242424242
++000007e8 4242424242424242
++000007f0 4242424242424242
++000007f8 00adbeefdeadbeef
+set context
+message was sent
+catch_exception_raise_state_identity
+thread: 1303
+receive_prealloc_msg: (os/kern) successful
+received prealloc message via an exception with this thread port: 1303
+set context
+message was sent
+catch_exception_raise_state_identity
+thread: 1303
+receive_prealloc_msg: (os/kern) successful
+received prealloc message via an exception with this thread port: 1303
+set context
+message was sent
+catch_exception_raise_state_identity
+thread: 1303
+receive_prealloc_msg: (os/kern) successful
+received prealloc message via an exception with this thread port: 1303
+set context
+message was sent
+catch_exception_raise_state_identity
+thread: 1303
+receive_prealloc_msg: (os/kern) successful
+received prealloc message via an exception with this thread port: 1303
+set context
+message was sent
+catch_exception_raise_state_identity
+thread: 1303
+receive_prealloc_msg: (os/kern) successful
+received prealloc message via an exception with this thread port: 1303
+set context
+message was sent
+catch_exception_raise_state_identity
+thread: 1303
+receive_prealloc_msg: (os/kern) successful
+received prealloc message via an exception with this thread port: 1303
+set context
+message was sent
+catch_exception_raise_state_identity
+thread: 1303
+receive_prealloc_msg: (os/kern) successful
+received prealloc message via an exception with this thread port: 1303
+set context
+message was sent
+catch_exception_raise_state_identity
+thread: 1303
+receive_prealloc_msg: (os/kern) successful
+received prealloc message via an exception with this thread port: 1303
+set context
+message was sent
+catch_exception_raise_state_identity
+thread: 1303
+receive_prealloc_msg: (os/kern) successful
+received prealloc message via an exception with this thread port: 1303
+set context
+message was sent
+found replacer port
++00000000 deadbeef000007a8
++00000008 ffffffe00d000000
++00000010 ffffffe00d000000
++00000018 ffffffe00d000648
++00000020 ffffffe00d74f678
++00000028 0000000000000000
++00000030 0000000000000000
++00000038 0000000000000000
++00000040 4242424242424242
++00000048 4242424242424242
++00000050 0000000000000000
++00000058 4242424242424242
++00000060 4242424242424242
++00000068 4242424242424242
++00000070 4242424242424242
++00000078 4242424242424242
++00000080 4242424242424242
++00000088 4242424242424242
++00000090 4242424242424242
++00000098 4242424242424242
++000000a0 4242424242424242
++000000a8 4242424242424242
++000000b0 4242424242424242
++000000b8 4242424242424242
++000000c0 4242424242424242
++000000c8 4242424242424242
++000000d0 4242424242424242
++000000d8 4242424242424242
++000000e0 4242424242424242
++000000e8 4242424242424242
++000000f0 4242424242424242
++000000f8 4242424242424242
++00000100 4242424242424242
++00000108 4242424242424242
++00000110 4242424242424242
++00000118 4242424242424242
++00000120 4242424242424242
++00000128 4242424242424242
++00000130 4242424242424242
++00000138 4242424242424242
++00000140 4242424242424242
++00000148 4242424242424242
++00000150 4242424242424242
++00000158 4242424242424242
++00000160 4242424242424242
++00000168 4242424242424242
++00000170 4242424242424242
++00000178 4242424242424242
++00000180 4242424242424242
++00000188 4242424242424242
++00000190 4242424242424242
++00000198 4242424242424242
++000001a0 4242424242424242
++000001a8 4242424242424242
++000001b0 4242424242424242
++000001b8 4242424242424242
++000001c0 4242424242424242
++000001c8 4242424242424242
++000001d0 4242424242424242
++000001d8 4242424242424242
++000001e0 4242424242424242
++000001e8 4242424242424242
++000001f0 4242424242424242
++000001f8 4242424242424242
++00000200 4242424242424242
++00000208 4242424242424242
++00000210 4242424242424242
++00000218 4242424242424242
++00000220 4242424242424242
++00000228 4242424242424242
++00000230 4242424242424242
++00000238 4242424242424242
++00000240 4242424242424242
++00000248 4242424242424242
++00000250 4242424242424242
++00000258 4242424242424242
++00000260 4242424242424242
++00000268 4242424242424242
++00000270 4242424242424242
++00000278 4242424242424242
++00000280 4242424242424242
++00000288 4242424242424242
++00000290 4242424242424242
++00000298 4242424242424242
++000002a0 4242424242424242
++000002a8 4242424242424242
++000002b0 4242424242424242
++000002b8 4242424242424242
++000002c0 4242424242424242
++000002c8 4242424242424242
++000002d0 4242424242424242
++000002d8 4242424242424242
++000002e0 4242424242424242
++000002e8 4242424242424242
++000002f0 4242424242424242
++000002f8 4242424242424242
++00000300 4242424242424242
++00000308 4242424242424242
++00000310 4242424242424242
++00000318 4242424242424242
++00000320 4242424242424242
++00000328 4242424242424242
++00000330 4242424242424242
++00000338 4242424242424242
++00000340 4242424242424242
++00000348 4242424242424242
++00000350 4242424242424242
++00000358 4242424242424242
++00000360 4242424242424242
++00000368 4242424242424242
++00000370 4242424242424242
++00000378 4242424242424242
++00000380 4242424242424242
++00000388 4242424242424242
++00000390 4242424242424242
++00000398 4242424242424242
++000003a0 4242424242424242
++000003a8 4242424242424242
++000003b0 4242424242424242
++000003b8 4242424242424242
++000003c0 4242424242424242
++000003c8 4242424242424242
++000003d0 4242424242424242
++000003d8 4242424242424242
++000003e0 4242424242424242
++000003e8 4242424242424242
++000003f0 4242424242424242
++000003f8 4242424242424242
++00000400 4242424242424242
++00000408 4242424242424242
++00000410 4242424242424242
++00000418 4242424242424242
++00000420 4242424242424242
++00000428 4242424242424242
++00000430 4242424242424242
++00000438 4242424242424242
++00000440 4242424242424242
++00000448 4242424242424242
++00000450 4242424242424242
++00000458 4242424242424242
++00000460 4242424242424242
++00000468 4242424242424242
++00000470 4242424242424242
++00000478 4242424242424242
++00000480 4242424242424242
++00000488 4242424242424242
++00000490 4242424242424242
++00000498 4242424242424242
++000004a0 4242424242424242
++000004a8 4242424242424242
++000004b0 4242424242424242
++000004b8 4242424242424242
++000004c0 4242424242424242
++000004c8 4242424242424242
++000004d0 4242424242424242
++000004d8 4242424242424242
++000004e0 4242424242424242
++000004e8 4242424242424242
++000004f0 4242424242424242
++000004f8 4242424242424242
++00000500 4242424242424242
++00000508 4242424242424242
++00000510 4242424242424242
++00000518 4242424242424242
++00000520 4242424242424242
++00000528 4242424242424242
++00000530 4242424242424242
++00000538 4242424242424242
++00000540 4242424242424242
++00000548 4242424242424242
++00000550 4242424242424242
++00000558 4242424242424242
++00000560 4242424242424242
++00000568 4242424242424242
++00000570 4242424242424242
++00000578 4242424242424242
++00000580 4242424242424242
++00000588 4242424242424242
++00000590 4242424242424242
++00000598 4242424242424242
++000005a0 4242424242424242
++000005a8 4242424242424242
++000005b0 4242424242424242
++000005b8 4242424242424242
++000005c0 4242424242424242
++000005c8 4242424242424242
++000005d0 4242424242424242
++000005d8 4242424242424242
++000005e0 4242424242424242
++000005e8 4242424242424242
++000005f0 4242424242424242
++000005f8 4242424242424242
++00000600 4242424242424242
++00000608 4242424242424242
++00000610 4242424242424242
++00000618 4242424242424242
++00000620 4242424242424242
++00000628 4242424242424242
++00000630 4242424242424242
++00000638 4242424242424242
++00000640 4242424242424242
++00000648 0000017480001211
++00000650 ffffffe00d74f678
++00000658 ffffffe00d756178
++00000660 0000096300000000
++00000668 001be37000000002
++00000670 00110000ffffffe0
++00000678 052a4d20167d5000
++00000680 00110000ffffffe0
++00000688 000000001681d968
++00000690 0000000100000001
++00000698 0000000100000002
++000006a0 0000000641414141
++000006a8 0000000000000044
++000006b0 0000000300000000
++000006b8 0000003400000000
++000006c0 0000002c00000000
++000006c8 00dda30700000000
++000006d0 0000000000000000
++000006d8 0000000000000000
++000006e0 0000000000000000
++000006e8 0000004100000000
++000006f0 4141414100000000
++000006f8 fdabaeef00000000
++00000700 6d9b3838fffffffe
++00000708 0000000000000001
++00000710 0000000000000000
++00000718 0000000000000000
++00000720 0000000000000000
++00000728 ffffffe100000000
++00000730 00000000ffffffff
++00000738 0000000000000000
++00000740 6d9b300000000000
++00000748 0000000000000001
++00000750 6d9b300000000000
++00000758 0000000000000001
++00000760 0000000000000000
++00000768 0000000000000000
++00000770 0000000000000000
++00000778 0000000000000000
++00000780 0000000000000000
++00000788 0000000000000000
++00000790 6d9b2ef000000000
++00000798 024dbbc800000001
++000007a0 6d9b2ec000000001
++000007a8 024dbbf800000001
++000007b0 6000000000000001
++000007b8 0000000000000000
++000007c0 4242424200000008
++000007c8 0000000100000000
++000007d0 0000000000000000
++000007d8 0000000000000000
++000007e0 0000000000000000
++000007e8 0000000000000000
++000007f0 4242424242424242
++000007f8 00000000deadbeef
+pipe buf and prealloc message are at ffffffe00d000000
+catch_exception_raise_state_identity
+thread: e20803
+receive_prealloc_msg: (os/kern) successful
+read val via pid_for_task: 000007a8
+000007a8
+read val via pid_for_task: 001a63e0
+read val via pid_for_task: ffffffe0
+ipc_space_kernel: ffffffe0001a63e0
+host port is on third page
+first port is at ffffffe0001bc000
+read val via pid_for_task: 80000001
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 80000000
+read val via pid_for_task: 80000010
+read val via pid_for_task: 80000017
+read val via pid_for_task: 80000000
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 80000000
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 80000000
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 80000000
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000000
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 8000001c
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 8000001a
+read val via pid_for_task: 80000019
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000001
+read val via pid_for_task: 80000014
+read val via pid_for_task: 80000002
+read val via pid_for_task: 001ecb90
+read val via pid_for_task: ffffffe0
+read val via pid_for_task: 1683e080
+read val via pid_for_task: fffffff0
+read val via pid_for_task: 00000000
+read val via pid_for_task: 11d8a0c0
+read val via pid_for_task: fffffff1
+kernel map:fffffff111d8a0c0
+tfp0: e20803
+kernel read via second tfp0 port worked?
+0x0000000000420000
+0x0000000000000000
+0xfffffff111db1d30
+0xffffffe002630d20
+clearing kmsg from port ffffffe00cfe07e0
+clearing premsg from port ffffffe00d74f678
+going to try to clear up the pipes now
+clearing pipebuf: ffffffe00274f198
+clearing pipebuf: ffffffe00274cb80
+done!
+kernel base: 0xfffffff016204000
+kaslr slide: 0xf200000
+Here - Kernel Base: 0xfffffff016204000
+
+Compressed Size: 15282386, Uncompressed: 30687232. Unknown (CRC?): 0x287eb94d, Unknown 1: 0x1
+2018-06-28 14:52:05.362264+0800 multi_path[235:4526] STATUS: Loading symbols...
+64-bit2018-06-28 14:52:05.362994+0800 multi_path[235:4526] STATUS: Adding symbol _kernproc at address 0xfffffff0075d50a0
+2018-06-28 14:52:05.363049+0800 multi_path[235:4526] STATUS: INDEX 0
+2018-06-28 14:52:05.363137+0800 multi_path[235:4526] STATUS: Adding symbol _rootvnode at address 0xfffffff0075d5088
+2018-06-28 14:52:05.363148+0800 multi_path[235:4526] STATUS: INDEX 1
+2018-06-28 14:52:05.363319+0800 multi_path[235:4526] STATUS: Got 64-bit kernel. Great
+2018-06-28 14:52:05.363374+0800 multi_path[235:4526] STATUS: Loaded The QiLin Toolkit for Darwin 17.5.0 Darwin Kernel Version 17.5.0: Tue Mar 13 21:32:11 PDT 2018; root:xnu-4570.52.2~8/RELEASE_ARM64_S8000 iPad6,3 - Lakrs-Pro
+got user client: 0xdda30b
+Found port: 0xffffffe00d756760
+Found addr: 0xffffffe003e0f190
+Found vtab: 0xfffffff01601c690
+Created fake_vtable at ffffffe01c5ec000
+Copied some of the vtable over
+Created fake_client at ffffffe01c5f0000
+Copied the user client over
+Wrote the `add x0, x0, #0x40; ret;` gadget over getExternalTrapForIndex2018-06-28 14:52:05.388660+0800 multi_path[235:4526] STATUS: Adding symbol _kernproc at address 0xffffffdff1a26cb0
+2018-06-28 14:52:05.388719+0800 multi_path[235:4526] STATUS: INDEX 2
+Platformizing process at address 0xffffffe005238d30
+2018-06-28 14:52:05.423317+0800 multi_path[235:4526] Flicking on task @0xffffffe0001edce8 t->flags to have TF_PLATFORM (0x401)..
+2018-06-28 14:52:05.430772+0800 multi_path[235:4526] STATUS: Spawned /usr/bin/sysdiagnose (null) (null)... as PID : 254
+This tool generates files that allow Apple to investigate issues with your
+computer and help improve Apple products. The files might contain personal
+information found on your device or associated with your iCloud accounts,
+including but not limited to your name, serial numbers of your device,
+your device name, your attached peripheral devices, your user name, your
+email address and email settings, file paths, file names, your computer's
+IP addresses, and network connection information.
+
+This information is used by Apple in accordance with its privacy policy
+(www.apple.com/privacy) and is not shared with any other company. By using
+this tool and sending the results to Apple, you consent to Apple using the
+contents of these files to improve Apple products.
+
+Press 'Enter' to continue. Ctrl+\ to cancel.
+KILL TO SD : 0
+will process list
+2018-06-28 14:52:08.437545+0800 multi_path[235:4526] Symbol _kernproc for iPad6,3, 11.3.1 - 0xfffffff0075d50a0 + 0xf200000
+KernCredAddr : 0xffffffe000466130
+Got AMFI: PID 200@0xffffffe0044cdc70, Task: 0xffffffe0046fee40
+CSFLAGS at offset 2a8
+
+-- Current CS Flags of process (@0xffffffe0044cdf18): 0x0
+-- process CS Flags @0xffffffe0044cdf18 set to  0x22000005 (RC: 4)
+VNODE INFO :
+My blob is @0xffffffe003e7f3c0
+BLOB CS FLAGS: 0x3000024
+BLOB CS FLAGS NOW: 0x23000025
+2018-06-28 14:52:08.440019+0800 multi_path[235:4526] DEBUG: Found sysdiagnose (254) @0xffffffe005236490. DAMN! Is this what processes look like in the kernel?!
+PID 254 PROC STRUCT IS AT ffffffe005236490. CREDS (0xffffffe005236590) are 0xffffffe0058fa130
+got cred addr ffffffe0058fa130
+2018-06-28 14:52:08.440132+0800 multi_path[235:4526] Symbol _kernproc for iPad6,3, 11.3.1 - 0xfffffff0075d50a0 + 0xf200000
+KernCredAddr : 0xffffffe000466130
+Got AMFI: PID 200@0xffffffe0044cdc70, Task: 0xffffffe0046fee40
+CSFLAGS at offset 2a8
+
+-- Current CS Flags of process (@0xffffffe0044cdf18): 0x0
+-- process CS Flags @0xffffffe0044cdf18 set to  0x22000005 (RC: 4)
+VNODE INFO :
+My blob is @0xffffffe003e7f3c0
+BLOB CS FLAGS: 0x23000025
+BLOB CS FLAGS NOW: 0x23000025
+2018-06-28 14:52:08.442565+0800 multi_path[235:4526] DEBUG: Found multi_path (235) @0xffffffe005238d30. DAMN! Is this what processes look like in the kernel?!
+Restoring creds from address 0xffffffe0058fa130 to process at 0xffffffe005238d30
+procCredAddr of PID 235:  0xffffffe000464750
+2018-06-28 14:52:09.476007+0800 multi_path[235:4526] STATUS: i_can_haz_task_for_pid_in_user_mode, AAPL. UP YOURS
+2018-06-28 14:52:09.476142+0800 multi_path[235:4526] STATUS: Got AMFId's port - let's castrate this bastard
+SET EXCEPTION HANDLER
+2018-06-28 14:52:09.476634+0800 multi_path[235:4526] STATUS: patched AMFI @0x100e14150
+2018-06-28 14:52:09.476689+0800 multi_path[235:4526] got amfi!
+Platformizing process at address 0xffffffe0044cdc70
+2018-06-28 14:52:09.540109+0800 multi_path[235:4526] Flicking on task @0xffffffe0046fee40 t->flags to have TF_PLATFORM (0x401)..
+[*] Setting Entitlements...
+before: get-task-allow is 0x0
+after: get-task-allow is 0xffffffe0001921f0
+[*] Setting Entitlements...
+before: com.apple.private.skip-library-validation is 0x0
+after: com.apple.private.skip-library-validation is 0xffffffe0001921f0
+2018-06-28 14:52:15.836570+0800 multi_path[235:4526] Address is at 0000000100e10000
+2018-06-28 14:52:15.836672+0800 multi_path[235:4526] found at: 1833f4430
+TASK: 0xdda407, Thread: 0x110000 - CODE: 0xdda703/0x110000, flavor: 1
+2018-06-28 14:52:20.553243+0800 multi_path[235:5659] Got request - kr: 0 - FileName (@0x16f18c538): /private/var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/amfid_payload.dylib
+Got Header with 18 Load commands
+GOT BLOB, MAGIC: 0xfade0cc0, offset: 1c,  type: 0
+CD Blob magic: 0x20cdefa
+CD Hash:
+97 29 c5 cc 8e a8 04 50 c7 01 89 a0 1e 31 27 77 .).....P.....1'w
+ce 2b c3 c3 91 fc fd c8 08 f6 6f 9a b3 77 d1 70 .+........o..w.p
+
+2018-06-28 14:52:20.553889+0800 multi_path[235:5659] DEBUG: writing cdhash (ffffff97 29 ffffffc5... ) to 0x16f18c4a4 - kr 0
+will resume at 0x100e13000
+set state 0 - Cnt: 68
+2018-06-28 14:52:20.785712+0800 multi_path[235:4526] No error occured!
+2018-06-28 14:52:20.785827+0800 multi_path[235:4526] Address is at 0000000100e10000
+2018-06-28 14:52:20.787218+0800 multi_path[235:4526] No error occured!
+[*] test: CODESIGN SUCCESSFULLY PATCHED!!
+Do mount job anyway. -----------------------------------------------------------
+
+
+[*] vnode of /dev/disk0s1s1: 0xffffffe000bca0d0
+[*] Clearing specflags
+[*] Specflags before 0x1
+[*] Specflags now 0x0
+2018-06-28 14:52:51.598738+0800 multi_path[235:4526] STATUS: ***** Launching  /sbin/mount_apfs ******
+2018-06-28 14:52:51.606223+0800 multi_path[235:4526] STATUS: Spawned /sbin/mount_apfs /dev/disk0s1s1 /private/var/mobile/tmp... as PID : 258
+****** /sbin/mount_apfs PID: 258 ******
+2018-06-28 14:52:51.606372+0800 multi_path[235:4526] Symbol _kernproc for iPad6,3, 11.3.1 - 0xfffffff0075d50a0 + 0xf200000
+KernCredAddr : 0xffffffe000466130
+Got AMFI: PID 200@0xffffffe0044cdc70, Task: 0xffffffe0046fee40
+CSFLAGS at offset 2a8
+
+-- Current CS Flags of process (@0xffffffe0044cdf18): 0x0
+-- process CS Flags @0xffffffe0044cdf18 set to  0x22000005 (RC: 4)
+VNODE INFO :
+My blob is @0xffffffe003e7f3c0
+BLOB CS FLAGS: 0x23000025
+BLOB CS FLAGS NOW: 0x23000025
+2018-06-28 14:52:51.608942+0800 multi_path[235:4526] DEBUG: Found mount_apfs (258) @0xffffffe005235860. DAMN! Is this what processes look like in the kernel?!
+0xffffffe005235860 - ShaiHulud to kernel cred
+2018-06-28 14:52:51.609023+0800 multi_path[235:4526] Symbol _kernproc for iPad6,3, 11.3.1 - 0xfffffff0075d50a0 + 0xf200000
+KernCredAddr : 0xffffffe000466130
+Got AMFI: PID 200@0xffffffe0044cdc70, Task: 0xffffffe0046fee40
+CSFLAGS at offset 2a8
+
+-- Current CS Flags of process (@0xffffffe0044cdf18): 0x0
+-- process CS Flags @0xffffffe0044cdf18 set to  0x22000005 (RC: 4)
+VNODE INFO :
+My blob is @0xffffffe003e7f3c0
+BLOB CS FLAGS: 0x23000025
+BLOB CS FLAGS NOW: 0x23000025
+2018-06-28 14:52:51.611473+0800 multi_path[235:4526] DEBUG: Found mount_apfs (258) @0xffffffe005235860. DAMN! Is this what processes look like in the kernel?!
+Bestowing the might of ShaiHulud on process @0xffffffe005235860
+procCredAddr of PID 258:  0xffffffe0058fa250
+NO Cred Addr specified - using kred addr (0xffffffe000466130)
+2018-06-28 14:52:51.611588+0800 multi_path[235:4526] STATUS: **** ShaiHulud complete ****
+[*] Mounting /dev/disk0s1s1 at /private/var/mobile/tmp, pspawn returned 0
+[*] Vnode of /private/var/mobile/tmp 0xffffffe001514960
+[*] Mount data of /private/var/mobile/tmp: 0xffffffe000be4000
+[*] vnode of /: 0xffffffe000bc9ef0
+[*] Removing RDONLY, NOSUID and ROOTFS flags
+[*] Flags before 0x1480d009
+[*] Flags now 0x14809000
+[*] Remounting /, return value = 0
+[*] Changning mount data, before: 0xffffffe000bf8000
+[*] Mount data now: 0xffffffe000be4000
+Did we mount / as read+write? YES
+Did we?
+[remap_kernel_task] kernel task at 0xffffffe0001ecb90
+vm_kernel_page_size: 4000
+allocated address: ffffffe022674000
+address to wire: ffffffe022674000
+vm_kernel_page_size: 4000
+allocated address: ffffffe022694000
+address to wire: ffffffe022694000
+[remap_kernel_task] remapped successfully to 0xffffffe004b50b90
+[remap_kernel_task] port kaddr: 0xffffffe00d755e30
+vm_kernel_page_size: 4000
+allocated address: ffffffe0226b4000
+address to wire: ffffffe0226b4000
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/.
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/cat
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/launchctl
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/pwd
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/sleep
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/stty
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/date
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/bash
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/kill
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/sh
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/dd
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/amfidebilitate
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/mkdir
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/hostname
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/rmdir
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/mv
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/joker
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/ln
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/ls
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/cp
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/sync
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/zsh
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/chmod
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/rm
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/.
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/md5
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/ping
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/shutdown
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/ifconfig
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/umount
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/kextunload
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/mknod
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/dmesg
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/.
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/tee
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/split
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/vim
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/hexdump
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/inject_criticald
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/lsmp
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/vm_stat
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/syslog
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/du
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/fs_usage
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/renice
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/xxd
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/sc_usage
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/less
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/sed
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/amfid_payload.dylib
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/nano
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/tset
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/seq
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/uname
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/uicache
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/reset
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/wc
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/gzip
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/printf
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/tail
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/grep
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/script
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/more
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/time
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/plconvert
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/head
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/clear
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/killall
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/stat
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/sqlite3
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/screen
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/arch
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/cut
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/xargs
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/what
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/chflags
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/id
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/find
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/scp
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/true
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/hostinfo
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/tar
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/false
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/login
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/which
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/passwd
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/nohup
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/w
+
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/gunzip
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/.
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/wget
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dropbearmulti
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dbclient
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/qilin.o
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/shaihulud.c
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/filemon
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dropbear
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/shaihulud
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/procexp
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/jtool
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dropbearkey
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/jlutil
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/joker
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dropbearconvert
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dropbear.orig
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/procexp.ent
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/.
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/joreg
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/ioreg
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/sysctl
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/taskpolicy
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/netstat
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/ltop
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/chown
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/kextstat
+Platformizing process at address 0xffffffe005235450
+2018-06-28 14:53:00.618919+0800 multi_path[235:4526] Flicking on task @0xffffffe001229720 t->flags to have TF_PLATFORM (0x401)..
+[*] Patching plist /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/LaunchDaemons/testbin.plist
+default shell: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/bash
+[261] Jun 28 14:53:00 Running in background
+Platformizing process at address 0xffffffe005235040
+2018-06-28 14:53:00.674181+0800 multi_path[235:4526] Flicking on task @0xffffffe00122b408 t->flags to have TF_PLATFORM (0x401)..
+/private/var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/LaunchDaemons/testbin.plist: Could not find specified service
+Platformizing process at address 0xffffffe00523a180
+2018-06-28 14:53:00.686757+0800 multi_path[235:4526] Flicking on task @0xffffffe001269ce8 t->flags to have TF_PLATFORM (0x401)..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/.
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/cat
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/launchctl
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/pwd
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/sleep
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/stty
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/date
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/bash
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/kill
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/sh
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/dd
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/amfidebilitate
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/mkdir
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/hostname
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/rmdir
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/io2018-06-28 14:53:00.702963+0800 multi_path[235:4526] file:///var/mobile/Containers/Data/Application/F3AAEFD5-D971-46BB-9256-797D0E162873/Documents/
+sbinpack64/bin/mv
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/joker
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/ln
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/ls
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/cp
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/sync
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/zsh
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/chmod
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin/rm
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/.
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/md5
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/ping
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/shutdown
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/ifconfig
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/umount
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/kextunload
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/mknod
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin/dmesg
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/.
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/tee
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/split
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/vim
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/hexdump
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/inject_criticald
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/lsmp
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/vm_stat
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/syslog
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/du
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/fs_usage
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/renice
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/xxd
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/sc_usage
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/less
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/sed
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/amfid_payload.dylib
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/nano
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/tset
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/seq
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/uname
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/uicache
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/reset
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/wc
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/gzip
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/printf
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/tail
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/grep
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/script
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/more
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/time
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/plconvert
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/head
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/clear
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/killall
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/stat
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/sqlite3
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/screen
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/arch
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/cut
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/xargs
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/what
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/chflags
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/id
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/find
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/scp
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/true
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/hostinfo
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/tar
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/false
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/login
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/which
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/passwd
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/nohup
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/w
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin/gunzip
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/.
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/wget
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dropbearmulti
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dbclient
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/qilin.o
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/shaihulud.c
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/filemon
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dropbear
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/shaihulud
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/procexp
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/jtool
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dropbearkey
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/jlutil
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/joker
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dropbearconvert
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/dropbear.orig
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin/procexp.ent
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/.
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/..
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/joreg
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/ioreg
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/sysctl
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/taskpolicy
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/netstat
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/ltop
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/chown
+preparing: /var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin/kextstat
+will launch a shell with this environment: PATH=/var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/bin:/var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/sbin:/var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/bin:/var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/local/bin:/var/containers/Bundle/Application/D47C9C6D-35CB-4F66-B688-3C76686B8630/multi_path.app/iosbinpack64/usr/sbin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/libexec
+shell listening on port 4141
+[264] Jun 28 14:53:23 Child connection from 192.168.6.120:61526
+[264] Jun 28 14:53:25 Password auth succeeded for 'root' from 192.168.6.120:61526
+2018-06-28 14:56:00.004087+0800 multi_path[235:4526] Status bar could not find cached time string image. Rendering in-process.
